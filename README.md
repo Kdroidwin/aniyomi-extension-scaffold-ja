@@ -8,7 +8,7 @@
 ```bash
 $ python creator.py
 Source name: Example
-Source language: pt-BR
+Source language: ja
 Base URL: https://example.com
 
 Choose the source type:
@@ -17,10 +17,10 @@ Choose the source type:
 
 Enter your choice: 2
 
-Creating src/pt/example/AndroidManifest.xml
-Creating src/pt/example/build.gradle
-Creating src/pt/example/src/eu/kanade/tachiyomi/animeextension/pt/example/Example.kt
-Creating src/pt/example/src/eu/kanade/tachiyomi/animeextension/pt/example/ExampleUrlActivity.kt
+Creating src/ja/example/AndroidManifest.xml
+Creating src/ja/example/build.gradle
+Creating src/ja/example/src/eu/kanade/tachiyomi/animeextension/ja/example/Example.kt
+Creating src/ja/example/src/eu/kanade/tachiyomi/animeextension/ja/example/ExampleUrlActivity.kt
 ```
 ### CLI-mode
 ```bash
